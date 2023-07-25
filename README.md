@@ -1,4 +1,4 @@
 # LDCWebDevCourse
 
-This is the web development course folder for projects from the LDC web dev course.
+These are the web development files for projects from the LDC web dev course.
 -LDC
